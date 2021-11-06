@@ -2,6 +2,7 @@
   "name": "proxy-warnings",
   "version": "0.1.1",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": "git@github.com:Buitio/proxy-warnings.git",
   "author": "martinmunillas <martinmunillas@gmail.com>",
   "license": "MIT",
